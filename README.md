@@ -12,8 +12,8 @@ Trabalho realizado para a matéria de Mineração de Dados da UFSCar.
 `price` - **Alvo da previsão**   
 `bedrooms` - Número de quartos na casa  
 `bathrooms` - Número de banheiros/quartos    
-`sqft_living` - Metragem quadrada da casa  
-`sqft_lot` - Metragem quadrada do lote  
+`sqft_living` - Área da casa  
+`sqft_lot` - Área do lote  
 `floors` - Total de pisos (andares) da casa    
 `waterfront` - Casa que tem vista para o mar   
 `view` - Foi vista  
